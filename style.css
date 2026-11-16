@@ -78,3 +78,23 @@ h1 {
     border-color: #ffc94d;
     box-shadow: 0 0 14px 5px rgba(255, 201, 77, .8);
 }
+
+#teclado { 
+    margin-top: 14px;
+}
+
+  .tecla { 
+    background: #232a31; 
+    color: #cfd3c6; 
+    border: 2px solid #8a8f86; 
+    cursor: pointer; 
+    padding: 0; 
+}
+
+.tecla {
+    background: #232a31;
+    color: #cfd3c6;
+    border: 2px solid #8a8f86;
+    cursor: pointer;
+    padding: 0;
+}
